@@ -14,8 +14,11 @@ If person X is listed as performing an editorial function for journal Y, there w
 If a person’s affiliation or affiliations is listed on the journal website, these affiliations will be included in the relevant line of data. If a person’s affiliation or affiliations are not listed on the journal website, the affiliations listed were found by conducting an internet search.
 
 ## Data Descriptor
+For ease of use, we provide raw data in MS Excel form (XLS) and an institution-level summary in simple Comma-separated Value (CSV) form.
 
-### "Data" tab
+### Raw Data: geodiverse_data.xls
+
+#### "Data" tab
 The fields in the “Data” tab are as follows:
 * _Journal_: The name of the journal.
 * _Top 5 Dummy_: A dummy indicating whether the journal is one of the “Top 5” journals in academic economics.
@@ -34,12 +37,23 @@ Affiliation 1_: The institution to which the named person is listed as having an
 
 Subsequent sheets in the file give statistics based on the data in the “Data” sheet.
 
-### "Powerful institutions" tab
+#### "Powerful institutions" tab
 “Powerful institutions” sums the number of times that the named institution appears in “Data”. “Power” gives this sum for all entries, whereas “Top 5 power” restricts attention to entries for “Top 5” journals.
 
-### "Powerful countries" tab
+#### "Powerful countries" tab
 “Powerful countries” sums the number of times that the named country appears in “Data”. “Power” gives this sum for all entries, whereas “Top 5 power” restricts attention to entries for “Top 5” journals.
+
 “Powerful continents” sums the number of times that the named continent appears in “Data”. “Power” gives this sum for all entries, whereas “Top 5 power” restricts attention to entries for “Top 5” journals.
+
+### Summary Data: geodiverse_institution_summary.csv
+Fields are as follows:
+* institution: the institution to which named persons in the raw data are affiliated.
+* _country_: the country in which the institution is located.
+* _continent_: the continent in which the institution is located.
+* _lat_: the institution's latitude, taken from GoogleMaps.
+* _lon_: the institution's longitude, taken from GoogleMaps.
+* _power_: the sum of the number of times that the named institution appears in the raw data.
+* _top5_power_: as per _power_ but restricts only to entries for "Top 5" journals.
 
 # Disclaimer
 _While the authors have made reasonable efforts to ensure the accuracy of the data provided here, the authors assume no responsibility or liability for any errors or omissions in the data, nor for the results obtained from the use of the data. The data is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this data._

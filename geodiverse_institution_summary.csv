@@ -1,0 +1,414 @@
+institution,country,continent,lat,lon,power,top5_power
+Chicago,USA,North America,41.788584,-87.598932,84,19
+UC Berkeley,USA,North America,37.872026,-122.258415,68,16
+"Harvard, Cambridge",USA,North America,42.376971,-71.116754,62,21
+"Northwestern, Evanston, Illinois",USA,North America,42.056483,-87.675148,61,11
+"Stanford, California",USA,North America,37.427436,-122.169812,54,15
+"University of Pennsylvania, Philadelphia",USA,North America,39.952206,-75.19345,54,8
+Princeton,USA,North America,40.343139,-74.655153,50,13
+LSE,UK,Europe,51.514479,-0.116742,47,16
+"MIT, Cambridge, Massachusetts",USA,North America,42.359964,-71.094342,44,11
+"NYU, New York, NY",USA,North America,40.729542,-73.996557,43,6
+"Duke, Durham, South Carolina",USA,North America,36.001426,-78.938367,42,2
+"Yale, New Haven, Connecticut",USA,North America,41.316349,-72.922392,40,9
+UCL,UK,Europe,51.524643,-0.134037,38,11
+UC San Diego,USA,North America,32.880223,-117.234131,38,3
+UCLA,USA,North America,34.068961,-118.445081,37,10
+"Columbia, New York, New York",USA,North America,40.807511,-73.962674,37,6
+"Wisconsin, Madison",USA,North America,43.076647,-89.412662,30,4
+Zurich,Switzerland,Europe,47.374322,8.550906,29,5
+Boston University,USA,North America,42.350389,-71.105505,27,2
+"Cornell, Ithaca, New York",USA,North America,42.453433,-76.473535,25,2
+"Brown, Providence, Rhode Island",USA,North America,41.826732,-71.402473,24,5
+Toronto,Canada,North America,43.665216,-79.396171,24,2
+"Michigan, Ann Arbor, Michigan",USA,North America,42.278083,-83.738352,23,1
+"Pompeu Fabra, Barcelona",Spain,Europe,41.379177,2.179593,22,6
+"Maryland, College Park, Maryland",USA,North America,38.986931,-76.942604,22,1
+Federal Reserve Bank of Minneapolis,USA,North America,44.984649,-93.267253,21,7
+UT Austin,USA,North America,30.284965,-97.733798,19,1
+"USC, Los Angeles",USA,North America,34.022299,-118.285185,18,0
+"Minnesota, Minneapolis, Minnesota",USA,North America,44.974043,-93.22786,17,4
+Toulouse,France,Europe,43.605413,1.431874,17,4
+"Bocconi, Milan",Italy,Europe,45.448521,9.189797,17,3
+"Dartmouth College, Hanover, New Hampshire",USA,North America,43.704417,-72.288491,17,3
+UC Irvine,USA,North America,33.640397,-117.844446,17,0
+"Pennsylvania State University, State College, Pennsylvania",USA,North America,40.798132,-77.860247,16,2
+Boston College,USA,North America,42.335517,-71.168762,16,0
+"Caltech, Pasadena, California",USA,North America,34.13756,-118.125376,15,1
+Paris School of Economics,France,Europe,48.822471,2.330796,15,1
+"Texas A&M, College Station, Texas",USA,North America,30.618733,-96.336481,15,0
+UC Santa Barbara,USA,North America,34.413892,-119.849105,14,1
+"Johns Hopkins, Baltimore, Maryland",USA,North America,39.329914,-76.620486,14,0
+"Monash, Melbourne",Australia,Australasia,-37.910573,145.136303,14,0
+"UBC, Vancouver",Canada,North America,49.260584,-123.245971,13,5
+Oxford,UK,Europe,51.754826,-1.254603,13,1
+"Michigan State, East Lansing, Michigan",USA,North America,42.703472,-84.483013,13,0
+Essex,UK,Europe,51.877607,0.947068,12,0
+"Ohio State University, Columbus, Ohio",USA,North America,40.006144,-83.016718,12,0
+"Vanderbilt University, Nashville, Tennessee",USA,North America,36.144638,-86.802801,12,0
+"Washington University in St. Louis, Missouri",USA,North America,38.648848,-90.310693,11,2
+"Emory, Atlanta, Georgia",USA,North America,33.797385,-84.322304,11,0
+"Erasmus University, Rotterdam",Netherlands,Europe,51.9166,4.525791,11,0
+"Federal Reserve Board of Governors, Washington DC",USA,North America,38.893126,-77.045776,11,0
+NUS,Singapore,Asia,1.296691,103.776297,11,0
+"Rochester, Rochester, New York",USA,North America,43.13044,-77.626179,11,0
+UC Davis,USA,North America,38.538102,-121.761687,11,0
+VU Amsterdam,Netherlands,Europe,52.333678,4.865699,11,0
+"Sciences Po, Paris",France,Europe,48.853976,2.328746,10,6
+"North Carolina, Chapel Hill, North Carolina",USA,North America,35.904756,-79.046846,10,1
+Cambridge,UK,Europe,52.204273,0.114956,10,0
+Tel Aviv,Israel,Asia,32.113464,34.804237,10,0
+"Warwick, Coventry",UK,Europe,52.379334,-1.561646,10,0
+London Business School,UK,Europe,51.526162,-0.160781,9,3
+Mannheim,Germany,Europe,49.483714,8.462303,9,2
+"Arizona, Tucson",USA,North America,32.231912,-110.950251,9,1
+Amsterdam,Netherlands,Europe,52.355916,4.955644,9,0
+"Arizona State University, Tempe, Arizona",USA,North America,33.424159,-111.928058,9,0
+"Carnegie Mellon University, Pittsburgh, Pennsylvania",USA,North America,40.442691,-79.943112,9,0
+Federal Reserve Bank of San Francisco,USA,North America,37.793653,-122.395509,9,0
+"Georgetown, Washington DC",USA,North America,38.907617,-77.072477,9,0
+Glasgow,UK,Europe,55.872145,-4.288041,9,0
+"Indiana University, Bloomington",USA,North America,39.175503,-86.512734,9,0
+"Notre Dame, Notre Dame, Indiana",USA,North America,41.705576,-86.235673,9,0
+Vienna,Austria,Europe,48.213143,16.359875,9,0
+Oslo,Norway,Europe,59.939988,10.721621,8,4
+Tilburg,Netherlands,Europe,51.563912,5.04352,8,2
+Melbourne,Australia,Australasia,-37.798401,144.960916,8,1
+"Chapman University, Orange, California",USA,North America,33.793166,-117.852099,8,0
+"Iowa, Iowa City, Iowa",USA,North America,41.661234,-91.536154,8,0
+"Rutgers, New Brunswick",USA,North America,40.500798,-74.447638,8,0
+UNSW,Australia,Australasia,-33.914768,151.230836,8,0
+Bonn,Germany,Europe,50.726772,7.086459,7,3
+"CREST, Paris",France,Europe,48.711135,2.207682,7,1
+Bern,Switzerland,Europe,46.950431,7.438151,7,0
+Federal Reserve Bank of Chicago,USA,North America,41.878527,-87.632762,7,0
+Federal Reserve Bank of New York,USA,North America,40.708578,-74.008708,7,0
+Federal Reserve Bank of St Louis,USA,North America,38.628864,-90.18772,7,0
+"Virginia, Charlottesville, Virginia, USA",USA,North America,38.033506,-78.508057,7,0
+HEC Paris,France,Europe,48.757461,2.169436,6,1
+ANU,Australia,Australasia,-35.277709,149.118368,6,0
+Bologna,Italy,Europe,44.496767,11.354002,6,0
+"EUI, Florence",Italy,Europe,43.803304,11.282916,6,0
+Federal Reserve Bank of Atlanta,USA,North America,33.782235,-84.384495,6,0
+Geneva,Switzerland,Europe,46.199518,6.144917,6,0
+"Illinois, Urbana Champaign, Illinois",USA,North America,40.102002,-88.227216,6,0
+"Oregon, Eugene, Oregon, USA",USA,North America,44.044861,-123.072577,6,0
+Pittsburgh,USA,North America,40.4443,-79.960892,6,0
+"Purdue, West Lafayette, Indiana",USA,North America,40.423599,-86.921111,6,0
+"Syracuse, Syracuse, NY",USA,North America,43.039157,-76.135148,6,0
+Universite Libre de Bruxelles,Belgium,Europe,50.813214,4.38222,6,0
+"UTS, Sydney",Australia,Australasia,-33.883291,151.200621,6,0
+Stockholm University,Sweden,Europe,59.362286,18.05781,5,2
+Autonomous University of Barcelona,Spain,Europe,41.501892,2.104806,5,1
+Manchester,UK,Europe,53.46691,-2.233961,5,1
+"Carlos III, Madrid",Spain,Europe,40.317128,-3.727478,5,0
+Colorado - Boulder,USA,North America,40.007458,-105.265716,5,0
+Copenhagen,Denmark,Europe,55.680273,12.572239,5,0
+"Einaudi Institute for Economics and Finance, Rome",Italy,Europe,41.908192,12.495645,5,0
+"Federal Reserve Bank of Richmond, Virginia",USA,North America,37.535688,-77.440656,5,0
+"Florida, Gainesville, Florida",USA,North America,29.643698,-82.35507,5,0
+"George Mason, Fairfax, Virginia",USA,North America,38.829711,-77.307652,5,0
+"Georgia State University, Atlanta, Georgia",USA,North America,33.752988,-84.385423,5,0
+Goethe University Frankfurt,Germany,Europe,50.12715,8.667667,5,0
+Hebrew University of Jerusalem,Israel,Asia,31.794695,35.241358,5,0
+Houston,USA,North America,29.719921,-95.34218,5,0
+Imperial College London,UK,Europe,51.498792,-0.174874,5,0
+"North Carolina State University, Raleigh, North Carolina",USA,North America,35.784633,-78.682074,5,0
+"Queen Mary, London",UK,Europe,51.52403,-0.040482,5,0
+"Rice, Houston",USA,North America,29.717245,-95.401703,5,0
+SMU,Singapore,Asia,1.296444,103.849932,5,0
+UC Riverside,USA,North America,33.973759,-117.327987,5,0
+"Washington, Seattle",USA,North America,47.655248,-122.303625,5,0
+"Western University, London, Ontario",Canada,North America,43.009558,-81.273838,5,0
+"York, Yorkshire",UK,Europe,53.946109,-1.051847,5,0
+"CERGE-EI, Charles University, Prague",Czech Republic,Europe,50.083297,14.428955,4,3
+"Ludwig-Maximilians-Universitat, Munich",Germany,Europe,48.151141,11.580141,4,2
+Bergen,Norway,Europe,60.38789,5.321916,4,1
+Edinburgh,UK,Europe,55.944552,-3.189477,4,1
+Bielefeld,Germany,Europe,52.036684,8.495222,4,0
+Federal Reserve Bank of Philadelphia,USA,North America,39.953695,-75.15127,4,0
+"Florida State University, Tallahassee, Florida",USA,North America,30.441859,-84.2988,4,0
+"Georgia, Athens, Georgia",USA,North America,33.948041,-83.377633,4,0
+"IMF, Washington DC",USA,North America,38.898724,-77.044252,4,0
+"Iowa State University, Ames, Iowa",USA,North America,42.026605,-93.646623,4,0
+"KU Leuven, Leuven",Belgium,Europe,50.86712,4.69059,4,0
+Lausanne,Switzerland,Europe,46.521112,6.580032,4,0
+Montreal,Canada,North America,45.51061,-73.613531,4,0
+Nottingham,UK,Europe,52.93862,-1.195201,4,0
+"Simon Fraser University, Burnaby",Canada,North America,49.278083,-122.920001,4,0
+St Andrews,UK,Europe,56.341663,-2.7943,4,0
+"Surrey, Guildford",UK,Europe,51.242733,-0.587872,4,0
+Sydney,Australia,Australasia,-33.887454,151.186995,4,0
+Tokyo,Japan,Asia,35.712673,139.761667,4,0
+"Tufts University, Medford, Massachusetts",USA,North America,42.408474,-71.118198,4,0
+UC Santa Cruz,USA,North America,36.987986,-122.0584,4,0
+"Williams College, Williamstown, Massachusetts",USA,North America,42.712829,-73.203118,4,0
+"World Bank, Washington DC",USA,North America,38.901348,-77.042716,4,0
+"Central European University, Budapest",Hungary,Europe,47.500416,19.049655,3,2
+"University of the Basque Country, Bilbao",Spain,Europe,43.337386,-2.969921,3,2
+CUHK,China,Asia,22.419605,114.205205,3,1
+"PUC, Rio",Brasil,South America,-22.979476,-43.232808,3,1
+Stockholm School of Economics,Sweden,Europe,59.341722,18.056758,3,1
+"Aalto, Espoo",Finland,Europe,60.186856,24.827607,3,0
+"Aarhus University, Aarhus",Denmark,Europe,56.168106,10.20302,3,0
+"Brandeis, Waltham, Massachusetts",USA,North America,42.365643,-71.258594,3,0
+"Catholic University of Louvain, Louvain-la-Neuve",Belgium,Europe,50.669803,4.615561,3,0
+Cologne,Germany,Europe,50.928318,6.928787,3,0
+"Connecticut, Mansfield, Connecticut",USA,North America,41.807709,-72.254045,3,0
+"CREI, Barcelona",Spain,Europe,41.389748,2.190352,3,0
+"ESSEC Business School, Cergy",France,Europe,49.033516,2.076572,3,0
+"European Central Bank, Frankfurt",Germany,Europe,50.110014,8.701891,3,0
+Federal Reserve Bank of Boston,USA,North America,42.352876,-71.053997,3,0
+Federal Reserve Bank of Cleveland,USA,North America,41.502177,-81.690318,3,0
+Federal Reserve Bank of Dallas,USA,North America,32.791638,-96.800707,3,0
+"FGV, Rio",Brasil,South America,-22.941063,-43.180294,3,0
+"George Washington University, Washington DC",USA,North America,38.903257,-77.049813,3,0
+Ghent University,Belgium,Europe,51.046697,3.727854,3,0
+Hamburg,Germany,Europe,53.566481,9.984523,3,0
+"HKUST, Hong Kong",China,Asia,22.338156,114.264124,3,0
+"Humboldt University, Berlin",Germany,Europe,52.517942,13.393698,3,0
+Kiel,Germany,Europe,54.347553,10.114488,3,0
+London School of Hygiene & Tropical Medicine,UK,Europe,51.520744,-0.13007,3,0
+Lugano,Switzerland,Europe,46.010558,8.958141,3,0
+Maastricht,Netherlands,Europe,50.847192,5.686577,3,0
+"McGill, Montreal",Canada,North America,45.504766,-73.577065,3,0
+"McMaster University, Hamilton, Ontario",Canada,North America,43.260824,-79.919258,3,0
+"Missouri, Columbia, Missouri",USA,North America,38.940381,-92.327995,3,0
+NYU - Abu Dhabi,United Arab Emirates,Asia,24.523983,54.434577,3,0
+Osaka University,Japan,Asia,34.821974,135.524253,3,0
+Paris Dauphine University,France,Europe,48.870317,2.274065,3,0
+"Queen's, Kingston, Ontario",Canada,North America,44.225214,-76.495045,3,0
+"Royal Holloway, Egham",UK,Europe,51.425662,-0.560998,3,0
+Social Sciences Research Center Berlin,Germany,Europe,52.506541,13.365065,3,0
+"Temple University, Philadelphia",USA,North America,39.980545,-75.155888,3,0
+"Tennessee, Knoxville, Tennessee",USA,North America,35.954419,-83.929671,3,0
+"Tsinghua, Beijing",China,Asia,39.999832,116.326412,3,0
+"CEMFI, Madrid",Spain,Europe,40.4142,-3.689772,2,1
+"New Economic School, Moscow",Russia,Europe,55.698423,37.394391,2,1
+"NHH, Bergen",Norway,Europe,60.422916,5.302398,2,1
+"Aix-Marseille Economic Sciences, Marseille",France,Europe,43.303296,5.379496,2,0
+Barcelona,Spain,Europe,41.38681,2.163894,2,0
+Basel,Switzerland,Europe,47.545419,7.596678,2,0
+Bath,UK,Europe,51.378163,-2.32657,2,0
+Birmingham,UK,Europe,52.450817,-1.930524,2,0
+Bristol,UK,Europe,51.458357,-2.603044,2,0
+Calgary,Canada,North America,51.077591,-114.140931,2,0
+"Central Florida, Orlando, Florida",USA,North America,28.602465,-81.199813,2,0
+Cergy-Pontoise,France,Europe,49.039065,2.074465,2,0
+"Claremont Graduate University, Claremont, California",USA,North America,34.103691,-117.713337,2,0
+"Concordia, Montreal",Canada,North America,45.494451,-73.577399,2,0
+"Copenhagen Business School, Frederiksberg",Denmark,Europe,55.681468,12.529469,2,0
+"Delaware, Newark, Delaware",USA,North America,39.677818,-75.750515,2,0
+"Drexel University, Philadelphia",USA,North America,39.95653,-75.190062,2,0
+"Eberhard Karls University Tubingen, Munich",Germany,Europe,48.529471,9.043645,2,0
+"Ecole Normal Superieure Paris-Saclay, Cachan",France,Europe,48.790015,2.325816,2,0
+"European School of Management and Technology GmbH, Berlin",Germany,Europe,52.515699,13.401311,2,0
+Gothenburg,Sweden,Europe,57.698143,11.971921,2,0
+Gottingen,Germany,Europe,51.540704,9.937551,2,0
+"Guelph, Ontario",Canada,North America,43.532807,-80.226513,2,0
+"Hawaii, Manoa, Honolulu, Hawaii",USA,North America,21.296799,-157.817262,2,0
+Heidelberg University,Germany,Europe,49.411229,8.706222,2,0
+"IHEID, Geneva",Switzerland,Europe,46.221057,6.143611,2,0
+"INSEAD, Fontainebleau",France,Europe,48.405298,2.686254,2,0
+"ISI, New Delhi",India,Asia,28.539641,77.185731,2,0
+"Kansas State University, Manhattan, Kansas",USA,North America,39.197311,-96.584639,2,0
+"Kansas, Lawrence, Kansas",USA,North America,38.954377,-95.255839,2,0
+Kobe,Japan,Asia,34.725861,135.233611,2,0
+Kyoto University,Japan,Asia,35.026381,135.780757,2,0
+Lancaster University,UK,Europe,54.010341,-2.787751,2,0
+Lyon,France,Europe,45.749603,4.837118,2,0
+"Max Planck Institute for Research on Collective Goods, Bonn",Germany,Europe,50.717124,7.126406,2,0
+"Miami, Coral Gables, Florida",USA,North America,25.72326,-80.279452,2,0
+Newcastle,UK,Europe,54.979258,-1.614929,2,0
+"Pablo de Olavide University, Seville",Spain,Europe,37.355206,-5.937629,2,0
+"Peking University, Beijing",China,Asia,39.987106,116.305895,2,0
+"PUC, Santiago",Brasil,South America,-33.442013,-70.640051,2,0
+"Quebec, Montreal",Canada,North America,45.512663,-73.560488,2,0
+"Queensland, Brisbane",Australia,Australasia,-27.49746,153.013991,2,0
+"Resources for the future, Washington DC",USA,North America,38.909661,-77.037614,2,0
+"Santa Clara University, Santa Clara, California",USA,North America,37.349655,-121.939213,2,0
+"Southwestern University of Finance and Economics, Chengdu",China,Asia,30.663045,104.01629,2,0
+Stellenbosch University,South Africa,Africa,-33.932803,18.864468,2,0
+"Stony Brook University, Stony Brook, NY",USA,North America,40.912311,-73.123367,2,0
+"Technion, Haifa",Israel,Asia,32.761475,35.019647,2,0
+"University of Southern Denmark, Odense",Denmark,Europe,55.36912,10.428161,2,0
+UT Dallas,USA,North America,32.985708,-96.749906,2,0
+"Virginia Polytechnic Institute and State University, Blacksburg, Virginia",USA,North America,37.228307,-80.42347,2,0
+"Waikato University, Hamilton",New Zealand,Australasia,-37.786925,175.318243,2,0
+"Wellesley College, Wellesley, Massachusetts",USA,North America,42.293454,-71.305992,2,0
+"Wyoming, Laramie, Wyoming",USA,North America,41.31496,-105.566607,2,0
+"York University, Toronto",Canada,North America,43.773481,-79.501997,2,0
+"Amazon, USA",USA,North America,48.164802,-122.279296,1,1
+Barcelona GSE,Spain,Europe,41.389881,2.189712,1,1
+"IPEG, Barcelona",Spain,Europe,41.390076,2.190352,1,1
+Aberdeen,UK,Europe,57.164853,-2.101751,1,0
+"Academy of Mathematics and Systems Science, Beijing",China,Asia,39.982534,116.332065,1,0
+Adelaide,Australia,Australasia,-34.920605,138.606051,1,0
+"Alaska, Anchorage, Alaska",USA,North America,61.191068,-149.819667,1,0
+"American University, Washington DC",USA,North America,38.937468,-77.08879,1,0
+"Amherst College, Amherst, Massachusetts",USA,North America,42.370799,-72.516992,1,0
+"Appalachian State University, Boone, North Carolina",USA,North America,36.213491,-81.683981,1,0
+"Auburn, Alabama",USA,North America,32.59332,-85.494908,1,0
+Augsburg,Germany,Europe,48.33258,10.896227,1,0
+Bamberg,Germany,Europe,49.893917,10.886213,1,0
+"Banco Central de Chile, Santiago",Chile,South America,-33.441142,-70.6531,1,0
+Bangor,UK,Europe,53.229527,-4.130127,1,0
+"Bank of England, London",UK,Europe,51.514375,-0.088436,1,0
+"Bank of France, Paris",France,Europe,48.869807,2.342569,1,0
+"Barcelona Graduate School of Economics, Barcelona, Spain",Spain,Europe,41.389897,2.189701,1,0
+"Bar-Ilan, Tel Aviv",Israel,Asia,32.069381,34.843034,1,0
+"Basque Country, Bilbao",Spain,Europe,43.27331,-2.958283,1,0
+"Bates College, Lewiston, Maine",USA,North America,44.105683,-70.202594,1,0
+"Baylor, Waco, Texas",USA,North America,31.546931,-97.1211,1,0
+"Ben Gurion, Beersheba",Israel,Asia,31.262181,34.801525,1,0
+"Bilkent, Ankara",Turkey,Asia,39.87531,32.747529,1,0
+"Bogazici, Istanbul",Turkey,Europe,41.08487,29.051104,1,0
+Brescia,Italy,Europe,45.538055,10.217351,1,0
+"Ca'Foscari, Venice",Italy,Europe,45.43441,12.326354,1,0
+"Capital University of Economics and Business, Beijing",China,Asia,39.841344,116.316447,1,0
+"Catholic University of the Sacred Heart, Milan",Italy,Europe,45.462369,9.177146,1,0
+"Chang Gung University, Taoyuan City",Taiwan,Asia,25.033723,121.389247,1,0
+"Chulalongkorn University, Bangkok",Thailand,Asia,13.738971,100.53208,1,0
+Cincinatti,USA,North America,39.132855,-84.514929,1,0
+City University of London,UK,Europe,51.527912,-0.102645,1,0
+"CKGSB, Beijing",China,Asia,39.910023,116.416872,1,0
+"Claremont McKenna College, Claremont, California",USA,North America,34.101714,-117.708104,1,0
+"Clemson, South Carolina",USA,North America,34.673835,-82.836994,1,0
+"College de France, Paris",France,Europe,48.849025,2.345565,1,0
+"CUNY, New York",USA,North America,40.751007,-73.973553,1,0
+"CUNY-Queens College, New York",USA,North America,40.736636,-73.819853,1,0
+"Cyprus University of Technology, Lemesos",Cyprus,Europe,34.675326,33.044135,1,0
+"Deakin, Geelong",Australia,Australasia,-38.14411,144.360015,1,0
+"Deutsche Bundesbank, Research Centre, Frankfurt",Germany,Europe,50.137097,8.659054,1,0
+"Duke Kunshan University, Kunshan",China,Asia,31.416198,120.901374,1,0
+"Ecole Polytechnique, Palaiseau",France,Europe,48.714425,2.211335,1,0
+"Economics and Statistics Research Centre, Malakoff",France,Europe,48.824845,2.303841,1,0
+"EHESS, Paris",France,Europe,48.850336,2.326881,1,0
+Exeter,UK,Europe,50.737117,-3.535201,1,0
+Federal Reserve Board of Governors Washington DC,USA,North America,38.893126,-77.04577,1,0
+"Financial Times, London",UK,Europe,51.51248,-0.096001,1,0
+"Fordham University, New York",USA,North America,40.861854,-73.886097,1,0
+Free University of Berlin,Germany,Europe,52.431427,13.23726,1,0
+"Free University of Bozen-Bolzano, Bolzano",Italy,Europe,46.498682,11.350678,1,0
+Fribourg,Switzerland,Europe,46.806254,7.152092,1,0
+"German Centre for Integrative Biodiversity, Leipzig",Germany,Europe,51.320119,12.395203,1,0
+"German Institute for Economic Research, Berlin",Germany,Europe,52.512288,13.388636,1,0
+Gerzensee,Switzerland,Europe,46.840421,7.547671,1,0
+"Grenoble Alpes, Grenoble",France,Europe,45.191503,5.767197,1,0
+Haifa,Israel,Asia,32.761583,35.019433,1,0
+"Hangkuk University, Yongin-si",South Korea,Asia,37.597269,127.058775,1,0
+"Haverford College, Haverford, Pennsylvania",USA,North America,40.009267,-75.307758,1,0
+HEC Montreal,Canada,North America,45.503699,-73.62115,1,0
+Helsinki,Finland,Europe,60.172603,24.95104,1,0
+Helsinki Graduate School of Economics,Finland,Europe,60.175711,24.928949,1,0
+"Henan Agricultural University, Zhengzhou",China,Asia,34.785639,113.663203,1,0
+"Hitotsubashi, Kunitachi",Japan,Asia,35.694569,139.445426,1,0
+"Hong Kong, Hong Kong",China,Asia,22.283416,114.137707,1,0
+"Hoover Institution, Stanford, California",USA,North America,37.427503,-122.166362,1,0
+"Iceland, Reykjavik",Iceland,Europe,64.139602,-21.952179,1,0
+"Ifo Institute for Economic Research, Munich, Germany",Germany,Europe,48.15314,11.605213,1,0
+"IFPRI, Washington DC",USA,North America,38.901644,-77.02839,1,0
+"Illinois State University, Normal, Illinois",USA,North America,40.51206,-88.99349,1,0
+"Illinois, Chicago",USA,North America,41.869746,-87.64958,1,0
+"IMPA, Rio",Brasil,South America,-22.965229,-43.237866,1,0
+Innsbruck,Austria,Europe,47.263343,11.383854,1,0
+INRA-AgriParisTech,France,Europe,48.841284,2.34777,1,0
+"Institute for Economic Analysis, Bellaterra",Spain,Europe,41.501859,2.104451,1,0
+"Jaume 1, Castellon de la Plana",Spain,Europe,39.994567,-0.069179,1,0
+"Johannes Gutenberg University, Mainz",Germany,Europe,49.992592,8.241555,1,0
+"Karlsruhe Insitute of Technology, Garmisch-Partenkirchen",Germany,Europe,49.012212,8.41717,1,0
+"KCL, London",UK,Europe,51.511466,-0.116029,1,0
+"Kent, Canterbury",UK,Europe,51.297085,1.063056,1,0
+"Kentucky, Lexington, Kentucky",USA,North America,38.030545,-84.504184,1,0
+"Koc University, Istanbul",Turkey,Europe,41.206056,29.072401,1,0
+Konstanz,Germany,Europe,47.689361,9.186835,1,0
+"Korea University, Seoul",South Korea,Asia,37.590965,127.027788,1,0
+Kyiv School of Economics,Ukraine,Europe,50.455959,30.487742,1,0
+"Laval University, Quebec City, Quebec",Canada,North America,46.781699,-71.274732,1,0
+"Leibniz University, Hanover",Germany,Europe,52.383085,9.719656,1,0
+Leicester,UK,Europe,52.621159,-1.124729,1,0
+Limoges,France,Europe,45.826235,1.258477,1,0
+"LUISS University, Rome",Italy,Europe,41.919061,12.511785,1,0
+Luxembourg,Luxembourg,Europe,49.504706,5.948483,1,0
+"Luxembourg Institute of Socio-Economic Research, Esch-Sur-Alzette, Luxembourg",Luxembourg,Europe,49.504265,5.946975,1,0
+"Macalester College, Saint Paul, Minnesota",USA,North America,44.937996,-93.169243,1,0
+"Manitoba, Winnipeg",Canada,North America,49.807532,-97.136658,1,0
+"Massachusetts, Amherst",USA,North America,42.386633,-72.53003,1,0
+"Memphis, Tennessee",USA,North America,35.118851,-89.937428,1,0
+"Microsoft, Herzliya",Israel,Asia,32.158184,34.808496,1,0
+"Middle East Technical University, Ankara",Turkey,Europe,39.892503,32.779505,1,0
+"Minho, Braga",Portugal,Europe,41.560808,-8.396205,1,0
+"Minnesota Department of Health and Human Services, Saint Paul, Minnesota",USA,North America,44.94877,-93.088988,1,0
+"Montana State, Bozeman, Montana",USA,North America,45.667296,-111.054771,1,0
+"Montana, Missoula, Montana",USA,North America,46.860097,-113.985165,1,0
+Montevideo,Uruguay,South America,-34.897756,-56.160415,1,0
+Montpellier Business School,France,Europe,43.621433,3.833573,1,0
+Namur,Belgium,Europe,50.466236,4.860439,1,0
+Nanchang,China,Asia,28.683656,115.937347,1,0
+"Nanjing University of Aeronautics and Astronautics, Nanjing",China,Asia,32.034309,118.82343,1,0
+Nanyang Technological University,Singapore,Asia,1.348149,103.682963,1,0
+Naples,Italy,Europe,40.845866,14.257487,1,0
+"National Chung Cheng University, Chia-Yi",Taiwan,Asia,23.563435,120.472733,1,0
+"National Dong Hua University, Shoufeng",Taiwan,Asia,23.897705,121.541673,1,0
+"Naval Postgraduate School, Monterey, California",USA,North America,36.597171,-121.874137,1,0
+"Navarra IESE Business School, Barcelona",Spain,Europe,41.393827,2.105838,1,0
+"Nebraska, Lincoln, Nebraska",USA,North America,40.820144,-96.700745,1,0
+"Netherlands Environmental Assessment Agency, Bilthoven",Netherlands,Europe,52.085049,4.328515,1,0
+"Norges Bank, Oslo",Norway,Europe,59.908827,10.742325,1,0
+"North Carolina, Greensboro, North Carolina",USA,North America,36.068808,-79.810251,1,0
+"Norwegian University of Life Sciences, As",Norway,Europe,59.666194,10.768172,1,0
+"Oklahoma, Norman, Oklahoma",USA,North America,35.205911,-97.445907,1,0
+"Open University of Israel, Ra'anana",Israel,Asia,32.188992,34.887706,1,0
+"Oregon State University, Corvallis, Oregon",USA,North America,44.563758,-123.279605,1,0
+Ottawa,Canada,North America,45.423095,-75.683154,1,0
+Palermo,Italy,Europe,38.117959,13.369838,1,0
+"Pandora, Berkeley, California",USA,North America,37.870601,-122.273974,1,0
+Paris 1,France,Europe,48.847086,2.344447,1,0
+Paris 8,France,Europe,48.944763,2.362975,1,0
+Paris-Jourdan Economic Sciences,France,Europe,48.822612,2.330871,1,0
+Paris-Saclay University,France,Europe,48.708953,2.152401,1,0
+Pavia,Italy,Europe,45.186895,9.156799,1,0
+Piraeus,Greece,Europe,37.941708,23.652847,1,0
+"Polytechnica University of Marche, Ancona",Italy,Europe,43.618796,13.513649,1,0
+"PUC, Sao Paolo",Brasil,South America,-23.537709,-46.671079,1,0
+Queen's University Belfast,UK,Europe,54.584365,-5.934178,1,0
+RAND Corp Washington Office,USA,North America,38.87762,-77.061537,1,0
+"RAND Corporation, Santa Monica, California",USA,North America,34.009862,-118.490794,1,0
+"Richmond, Virginia",USA,North America,37.575158,-77.540715,1,0
+"Rutgers Business School, Newark, New Jersey",USA,North America,40.745311,-74.170441,1,0
+"San Andres, Victoria",Argentina,South America,-34.44616,-58.529799,1,0
+"Seoul, Seoul",South Korea,Asia,37.584065,127.058734,1,0
+Sheffield,UK,Europe,53.380998,-1.488076,1,0
+Shenzhen,China,Asia,22.533283,113.932877,1,0
+"Shenzhen Institute of Advanced Technology, Shenzhen",China,Asia,22.597246,113.991407,1,0
+Siena,Italy,Europe,43.319322,11.33295,1,0
+"SNU, Seoul",South Korea,Asia,37.459946,126.9519,1,0
+"Sorbonne, Paris",France,Europe,48.850863,2.341201,1,0
+"South Carolina, Columbia, South Carolina",USA,North America,33.993806,-81.030047,1,0
+Southampton,UK,Europe,50.935213,-1.395724,1,0
+"Southern Methodist University, Dallas",USA,North America,32.841168,-96.784539,1,0
+"SUNY - Albany, Albany, NY",USA,North America,42.685384,-73.825626,1,0
+"Sussex, Brighton",UK,Europe,50.867089,-0.087978,1,0
+"Swiss Finance Insitute, Geneva",Switzerland,Europe,46.195572,6.139752,1,0
+"Technische Universitat Wien, Vienna",Austria,Europe,48.198633,16.368387,1,0
+"The Economist Magazine, London",UK,Europe,51.504845,-0.0225,1,0
+"Tinbergen Institute, Amsterdam",Netherlands,Europe,52.336286,4.874138,1,0
+Trinity College Dublin,Ireland,Europe,53.343854,-6.254743,1,0
+Tsukuba,Japan,Asia,36.106789,140.1019,1,0
+UC Dublin,Ireland,Europe,53.306695,-6.221205,1,0
+"University of the Andes, Bogota",Columbia,South America,4.601383,-74.066434,1,0
+Uppsala,Sweden,Europe,59.850871,17.629773,1,0
+"US EPA, Washington DC",USA,North America,38.892625,-77.02904,1,0
+UT El Paso,USA,North America,31.770909,-106.504898,1,0
+"Utah State University, Logan, Utah",USA,North America,41.745229,-111.809603,1,0
+"Utah, Salt Lake City, Utah",USA,North America,40.764912,-111.842038,1,0
+Verona,Italy,Europe,45.436396,11.003091,1,0
+Vigo,Spain,Europe,42.169719,-8.684535,1,0
+Wageningen,Netherlands,Europe,51.984586,5.665534,1,0
+"Waseda, Tokyo",Japan,Asia,35.708868,139.719573,1,0
+"William and Mary, Williamsburg, Virginia",USA,North America,37.272517,-76.716496,1,0
+"Wisconsin, La Crosse",USA,North America,43.817365,-91.231238,1,0
+"Wisconsin, Milwaukee",USA,North America,43.078232,-87.881936,1,0
+Wurzburg,Germany,Europe,49.788271,9.935281,1,0
+WZB Berlin Social Science Center,Germany,Europe,52.506492,13.365022,1,0
+Xiamen,China,Asia,24.437617,118.097823,1,0

@@ -56,6 +56,9 @@ Fields are as follows:
 * _power_: the sum of the number of times that the named institution appears in the raw data.
 * _top5_power_: as per _power_ but restricts only to entries for "Top 5" journals.
 
+## Other Resources
+In `journal_dists/` are provided code and in/out tab-delimited files to compute standard geographic distance measures, by journal. See `compute_stdist.m` for details.
+
 # Disclaimer
 _While the authors have made reasonable efforts to ensure the accuracy of the data provided here, the authors assume no responsibility or liability for any errors or omissions in the data, nor for the results obtained from the use of the data. The data is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this data._
 

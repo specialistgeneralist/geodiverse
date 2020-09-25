@@ -57,8 +57,10 @@ Fields are as follows:
 * _top5_power_: as per _power_ but restricts only to entries for "Top 5" journals.
 
 ## Other Resources
-In `other_resources` are provided additional tools and examples for working with the data provided here:
-* In `journal_dists/` are provided code and in/out tab-delimited files to compute standard geographic distance measures, by journal. See `compute_stdist.m` for details.
+In `other_resources` is provided additional tools and examples for working with the data provided here:
+* In `journal_dists/` is provided code and in/out tab-delimited files to compute standard geographic distance measures, by journal. See `compute_stdist.m` for details.
+* In `kepler_visualisation/` is provided an `.html` file allowing exploration of an institutional visualisation of the editorial power dataset.
+* In `R_plots/` is provided *R* code and data to produce bar charts, scatter plots and density plots of power and geographic diversity measures.
 
 # Disclaimer
 _While the authors have made reasonable efforts to ensure the accuracy of the data provided here, the authors assume no responsibility or liability for any errors or omissions in the data, nor for the results obtained from the use of the data. The data is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this data._

@@ -1,6 +1,8 @@
 # The Geographic Diversity Project
 _Providing the Economics community with information on the geographic diversity of journals._
 
+By [Simon D. Angus](http://research.monash.edu/en/persons/simon-angus); [Kadir Atalay](http://sydney.edu.au/arts/about/our-people/academic-staff/kadir-atalay.html), [Jonathan Newton](http://jonathannewton.net), and [David Ubilava](http://davidubilava.com)
+
 ## Summary
 Data provided here contain the name, institutional affiliation and geographic location of editorial staff at journals ranked **A*** by the [2019 ABDC Journal Quality List](https://abdc.edu.au/research/abdc-journal-list/).
 

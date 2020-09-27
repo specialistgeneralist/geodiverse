@@ -3,6 +3,11 @@ _Providing the Economics community with information on the geographic diversity 
 
 By [Simon D. Angus](http://research.monash.edu/en/persons/simon-angus), [Kadir Atalay](http://sydney.edu.au/arts/about/our-people/academic-staff/kadir-atalay.html), [Jonathan Newton](http://jonathannewton.net), and [David Ubilava](http://davidubilava.com)
 
+See
+* **Working Paper**:  [Angus, SD, Atalay, K, Newton, J, and Ubilava, D; _Geographic Diversity in Economic Publishing_ (September 23, 2020). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906)
+* **Twitter**: [@geo_diverse](https://twitter.com/geo_diverse)
+
+
 ## Summary
 Data provided here contain the name, institutional affiliation and geographic location of editorial staff at journals ranked **A*** by the [2019 ABDC Journal Quality List](https://abdc.edu.au/research/abdc-journal-list/).
 

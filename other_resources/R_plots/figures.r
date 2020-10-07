@@ -1,14 +1,17 @@
+# load packages
 library(data.table)
 library(ggplot2)
 
+# clean-up the environment (just in case)
 rm(list=ls())
 gc()
 
-# load data
+# load the data
 load("datafiles.RData")
 
-
-### power bar-plots
+####################################
+# -1- generate the power bar-plots #
+####################################
 
 ## by affiliation
 
@@ -31,7 +34,7 @@ top10_inst_lg$Institution <- factor(top10_inst_lg$Institution,levels=unique(top1
 
 top10_inst_lg$Tier <- factor(top10_inst_lg$Tier,levels=unique(top10_inst_lg$Tier)[2:1])
 
-## bar-plot of the institutional power by journal tiers
+# bar-plot of the institutional power by journal tiers
 gg_inst <- ggplot(top10_inst_lg,aes(x=Institution,y=Power,fill=Tier))+
   geom_bar(stat="identity")+
   scale_fill_manual(breaks=c("Top5","Not5"),values=c("gray70","gray30"))+
@@ -62,7 +65,7 @@ top10_ctry_lg$Country <- factor(top10_ctry_lg$Country,levels=unique(top10_ctry_l
 
 top10_ctry_lg$Tier <- factor(top10_ctry_lg$Tier,levels=unique(top10_ctry_lg$Tier)[2:1])
 
-## bar-plot of the country power by journal tiers
+# bar-plot of the country power by journal tiers
 gg_ctry <- ggplot(top10_ctry_lg,aes(x=Country,y=Power,fill=Tier))+
   geom_bar(stat="identity")+
   scale_fill_manual(breaks=c("Top5","Not5"),values=c("gray70","gray30"))+
@@ -88,7 +91,7 @@ top11_ctry_lg$Country <- factor(top11_ctry_lg$Country,levels=unique(top11_ctry_l
 
 top11_ctry_lg$Tier <- factor(top11_ctry_lg$Tier,levels=unique(top11_ctry_lg$Tier)[2:1])
 
-## bar-plot of the country power (less USA) by journal tiers
+# bar-plot of the country power (minus USA) by journal tiers
 gg_ctry <- ggplot(top11_ctry_lg,aes(x=Country,y=Power,fill=Tier))+
   geom_bar(stat="identity")+
   scale_fill_manual(breaks=c("Top5","Not5"),values=c("gray70","gray30"))+
@@ -101,7 +104,9 @@ gg_ctry
 ggsave("PowerRank_Top10_Countries_NonUSA.png",gg_ctry,width=6.5,height=4.5)
 
 
-### geo-diverse scatterplot
+#######################################
+# -2- generate the geodiversity plots #
+#######################################
 
 # scatter-plot journal age and standard distances (degrees) by journal field
 gg_journaldist <- ggplot(journals_dt,aes(x=Journal_Age,y=journal_stdist_linear_1st2nd_deg))+
@@ -114,10 +119,8 @@ gg_journaldist <- ggplot(journals_dt,aes(x=Journal_Age,y=journal_stdist_linear_1
 
 gg_journaldist
 
-ggsave("AgeDistField.png",gg_journaldist,width=6.5,height=4.5)
+ggsave("Age_SDistance_Field_Scatter.png",gg_journaldist,width=6.5,height=4.5)
 
-
-### geo-diverse densities
 
 # plot densities of standard distances (degrees) by journal field
 gg_journaldense <- ggplot(journals_dt,aes(x=journal_stdist_linear_1st2nd_deg,linetype=Field))+
@@ -130,6 +133,6 @@ gg_journaldense <- ggplot(journals_dt,aes(x=journal_stdist_linear_1st2nd_deg,lin
 
 gg_journaldense
 
-ggsave("DistFieldDensity.png",gg_journaldense,width=6.5,height=4.5)
+ggsave("SDistance_Field_Density.png",gg_journaldense,width=6.5,height=4.5)
 
 

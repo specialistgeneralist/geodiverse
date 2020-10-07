@@ -1,11 +1,17 @@
 # The Geographic Diversity Project
 _Providing the Economics community with information on the geographic diversity of journals._
 
+
+
 By [Simon D. Angus](http://research.monash.edu/en/persons/simon-angus), [Kadir Atalay](http://sydney.edu.au/arts/about/our-people/academic-staff/kadir-atalay.html), [Jonathan Newton](http://jonathannewton.net), and [David Ubilava](http://davidubilava.com)
 
 See
 * **Working Paper**:  [Angus, SD, Atalay, K, Newton, J, and Ubilava, D; _Geographic Diversity in Economic Publishing_ (September 23, 2020). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906)
 * **Twitter**: [@geo_diverse](https://twitter.com/geo_diverse)
+
+To cite code, data, v1.0.0:
+* [Angus, SD, Atalay, K, Newton, J, and Ubilava, D, _Geographic Diversity in Economic Publishing_, code and data, v1.0.0 specialistgeneralist/geodiverse: Working paper first draft - accompanying release, DOI: 10.5281/zenodo.4052830.](https://zenodo.org/badge/latestdoi/290628503)
+[![DOI](https://zenodo.org/badge/290628503.svg)](https://zenodo.org/badge/latestdoi/290628503)
 
 
 ## Summary

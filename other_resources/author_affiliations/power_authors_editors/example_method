@@ -1,0 +1,13 @@
+
+% -- all
+% Author power from author lat-lon, with coarse-graining
+>> calc_authorPower('scopus_authors_papers_affiliations_geo.csv', 'author_power_1p0deg.csv', 0)
+ --> wrote author_power_1p0deg.csv (1348 rows).
+
+% -- refined variant
+>> calc_authorPower('../scopus/step5-join_affiliation_geos_to_journal_outputs/scopus_authors_papers_affiliations_geo_refined.csv', 'author_power_1p0deg_refined.csv', 0)
+ --> wrote author_power_1p0deg_refined.csv (1081 rows).
+
+% -- check impact of geo refinement on geo power
+>> check_authorPowerCorrelation('author_power_1p0deg.csv', 'author_power_1p0deg_refined.csv')
+

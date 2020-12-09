@@ -1,0 +1,151 @@
+afid,affilname,affiliation_city,affiliation_country,street,city,state,country
+60000239,"Université de Lausanne (UNIL)","Lausanne",Switzerland,"Route Cantonale","Lausanne",VD,Switzerland
+60000521,"Wilfrid Laurier University","Waterloo",Canada,"75 University Avenue West","Waterloo",ON,Canada
+60000745,"University of Illinois at Urbana-Champaign","Urbana",United States,"901 West Illinois Street","Urbana",IL,United States
+60000840,"International Food Policy Research Institute","Washington, D.C.",United States,"","Washington, D.C.",DC,United States
+60001439,"Pennsylvania State University","University Park",United States,"201 Old Main","University Park",PA,United States
+60002476,"Virginia Commonwealth University","Richmond",United States,"1015 Floyd Avenue","Richmond",VA,United States
+60002798,"Chinese University of Hong Kong","Shatin",Hong Kong,"NT","Shatin",,Hong Kong
+60002970,"HEC Montréal","Montreal",Canada,"3000 chemin de la Côte-Sainte-Catherine Road","Montreal",QC,Canada
+60003269,"Princeton University","Princeton",United States,"110 Morrison Hall","Princeton",NJ,United States
+60003771,"The University of Manchester","Manchester",United Kingdom,"Oxford Road","Manchester",Greater Manchester,United Kingdom
+60003892,"Arizona State University","Tempe",United States,"1151 S. Forest Ave.","Tempe",AZ,United States
+60005248,"Johns Hopkins University","Baltimore",United States,"3400 N. Charles Street","Baltimore",MD,United States
+60005455,"Yale University","New Haven",United States,"265 Church Street, Suite 901","New Haven",CT,United States
+60005803,"Bogaziçi Üniversitesi","Istanbul",Turkey,"Bebek","Istanbul",Istanbul,Turkey
+60005819,"Bank for International Settlements","Basel",Switzerland,"Centralbahnplatz 2","Basel",BS,Switzerland
+60006173,"University of Missouri","Columbia",United States,"230 Jesse Hall","Columbia",MO,United States
+60006297,"University of Pennsylvania","Philadelphia",United States,"1 College Hall, Room 100","Philadelphia",PA,United States
+60006341,"Universität Mannheim","Mannheim",Germany,"Schloss","Mannheim",Baden-Wurttemberg,Germany
+60007278,"University of California, Irvine","Irvine",United States,"","Irvine",CA,United States
+60007493,"Universität Bonn","Bonn",Germany,"Regina-Pacis-Weg 3","Bonn",Nordrhein-Westfalen,Germany
+60007762,"Goethe-Universität Frankfurt am Main","Frankfurt am Main",Germany,"Theodor-W.-Adorno-Platz 1","Frankfurt am Main",Hessen,Germany
+60008134,"CNRS Centre National de la Recherche Scientifique","Paris",France,"3 rue Michel-Ange","Paris",,France
+60008724,"Duke University","Durham",United States,"2080 Duke University Road","Durham",NC,United States
+60008845,"Federal Reserve Bank of Dallas","Dallas",United States,"","Dallas",TX,United States
+60008950,"The Australian National University","Canberra",Australia,"","Canberra",ACT,Australia
+60009891,"ESSEC Business School","Cergy-Pontoise",France,"3 avenue Bernard Hirsch","Cergy-Pontoise",,France
+60009982,"Harvard University","Cambridge",United States,"Massachusetts Hall","Cambridge",MA,United States
+60010057,"London Business School","London",United Kingdom,"Regent's Park","London",,United Kingdom
+60010261,"Washington University in St. Louis","St. Louis",United States,"One Brookings Drive","St. Louis",MO,United States
+60010447,"Centre de Recherche en Economie et Statistique","Palaiseau",France,"Route de Saclay","Palaiseau",Ile-de-France,France
+60010756,"Dartmouth College","Hanover",United States,"","Hanover",NH,United States
+60011263,"Hitotsubashi University","Kunitachi",Japan,"1 Naka 2-chome","Kunitachi",Tokyo,Japan
+60011460,"Brown University","Providence",United States,"Page-Robinson Hall, 69 Brown Street","Providence",RI,United States
+60012614,"University of Zurich","Zurich",Switzerland,"Ramistrasse 71","Zurich",ZH,Switzerland
+60012708,"Stanford University","Palo Alto",United States,"450 Serra Mall, Stanford","Palo Alto",CA,United States
+60013372,"The University of Texas at Austin","Austin",United States,"110 Inner Campus Drive","Austin",TX,United States
+60013682,"Seoul National University","Seoul",South Korea,"1 Gwanak-ro, Gwanak-gu","Seoul",,South Korea
+60013830,"Federal Reserve Bank of Chicago","Chicago",United States,"230 South LaSalle Street","Chicago",IL,United States
+60015150,"Imperial College London","London",United Kingdom,"South Kensington Campus","London",,United Kingdom
+60015481,"University of Washington, Seattle","Seattle",United States,"4333 Brooklyn Ave. N.E. Box 359505","Seattle",WA,United States
+60016114,"William &amp; Mary","Williamsburg",United States,"P.O. Box 8795","Williamsburg",VA,United States
+60016247,"Brandeis University","Waltham",United States,"415 South Street","Waltham",MA,United States
+60016374,"Luiss University","Rome",Italy,"Viale Pola 12","Rome",,Italy
+60016621,"Centre for Economic Policy Research, London","London",United Kingdom,"33 Great Sutton Street","London",,United Kingdom
+60016849,"University of Toronto","Toronto",Canada,"27 King's College Circle","Toronto",ON,Canada
+60017161,"National University of Singapore","Singapore City",Singapore,"21 Lower Kent Ridge Road","Singapore City",,Singapore
+60017293,"Università degli Studi di Napoli Federico II","Naples",Italy,"Corso Umberto 1","Naples",NA,Italy
+60017592,"Carleton University","Ottawa",Canada,"1125 Colonel By Drive","Ottawa",ON,Canada
+60018149,"Federal Reserve Bank of Cleveland","Cleveland",United States,"","Cleveland",OH,United States
+60018805,"Deakin University","Geelong",Australia,"1 Gheringhap Street","Geelong",VIC,Australia
+60019743,"Federal Reserve Bank of New York","New York",United States,"33 Liberty Street","New York",NY,United States
+60020337,"National Bureau of Economic Research","Cambridge",United States,"1050 Massachusetts Avenue","Cambridge",MA,United States
+60020486,"University of Bern","Bern",Switzerland,"Hochschulstrasse 4","Bern",BE,Switzerland
+60020928,"Stanford Graduate School of Business","Stanford",United States,"Knight Management Center, 655 Knight Way","Stanford",CA,United States
+60021097,"University of Surrey","Guildford",United Kingdom,"","Guildford",Surrey,United Kingdom
+60021406,"International Monetary Fund","Washington, D.C.",United States,"700 19th Street NW","Washington, D.C.",DC,United States
+60021562,"Handelshögskolan i Stockholm","Stockholm",Sweden,"P.O Box 6501","Stockholm",Stockholm,Sweden
+60021784,"New York University","New York",United States,"70 Washington Square South","New York",NY,United States
+60021796,"Università Bocconi","Milan",Italy,"Via Sarfatti, 25","Milan",,Italy
+60022020,"University of Warwick","Coventry",United Kingdom,"","Coventry",West Midlands,United Kingdom
+60022109,"Queen Mary University of London","London",United Kingdom,"Mile End Road","London",,United Kingdom
+60022132,"University of St Andrews","St Andrews",United Kingdom,"College Gate","St Andrews",Fife,United Kingdom
+60022148,"University College London","London",United Kingdom,"Gower Street","London",,United Kingdom
+60022452,"Wharton School of the University of Pennsylvania","Philadelphia",United States,"University of Pennsylvania, 3733 Spruce Street","Philadelphia",PA,United States
+60022659,"University of Connecticut","Storrs",United States,"","Storrs",CT,United States
+60022793,"University of Richmond","Richmond",United States,"28 Westhampton Way","Richmond",VA,United States
+60023004,"University of Delaware","Newark",United States,"210 South College Ave.","Newark",DE,United States
+60023020,"Universitat Autònoma de Barcelona","Barcelona",Spain,"Campus de Bellaterra","Barcelona",Barcelona,Spain
+60023588,"Universitat Basel","Basel",Switzerland,"Petersplatz 1","Basel",BS,Switzerland
+60023612,"Federal Reserve System","Washington, D.C.",United States,"20th Street and Constitution Avenue N.W.","Washington, D.C.",DC,United States
+60023927,"Georgetown University","Washington, D.C.",United States,"3700 O St., N.W.","Washington, D.C.",,United States
+60024260,"Universität Siegen","Siegen",Germany,"Adolf-Reichwein-Straße 2a","Siegen",Nordrhein-Westfalen,Germany
+60024316,"European University Institute, San Domenico di Fiesole","San Domenico di Fiesole",Italy,"Via de' Roccettini 9","San Domenico di Fiesole",FI,Italy
+60024983,"Center for Economic and Policy Research","Washington, D.C.",United States,"","Washington, D.C.",DC,United States
+60025063,"KU Leuven","3000 Leuven",Belgium,"Oude Markt 13","3000 Leuven",Vlaams-Brabant,Belgium
+60025233,"NHH Norwegian School of Economics","Bergen",Norway,"Helleveien 30","Bergen",Hordaland,Norway
+60025525,"Universität Konstanz","Konstanz",Germany,"Universitaetsstrasse 10","Konstanz",Baden-Wurttemberg,Germany
+60025778,"University of Michigan, Ann Arbor","Ann Arbor",United States,"500 S. State Street","Ann Arbor",MI,United States
+60026391,"Bank of England","London",United Kingdom,"Threadneedle Street","London",,United Kingdom
+60026415,"Stony Brook University","Stony Brook",United States,"100 Nicolls Road","Stony Brook",NY,United States
+60026553,"University of Melbourne","Parkville",Australia,"1-100 Grattan Street","Parkville",VIC,Australia
+60026851,"University of Oxford","Oxford",United Kingdom,"University Offices, Wellington Square","Oxford",Oxfordshire,United Kingdom
+60027165,"University of Rochester","Rochester",United States,"500 Joseph C. Wilson Blvd.","Rochester",NY,United States
+60027550,"University of California, Los Angeles","Los Angeles",United States,"405 Hilgard Avenue","Los Angeles",CA,United States
+60027863,"Université du Québec à Montréal","Montreal",Canada,"succ. Centre-ville","Montreal",QC,Canada
+60028186,"Ecole Polytechnique Fédérale de Lausanne","Lausanne",Switzerland,"Route Cantonale","Lausanne",VD,Switzerland
+60028333,"University of New South Wales (UNSW) Australia","Sydney",Australia,"Kensington Campus","Sydney",NSW,Australia
+60028717,"Ludwig-Maximilians-Universität München","Munich",Germany,"Geschwister-Scholl-Platz 1","Munich",Bayern,Germany
+60029278,"The University of Chicago","Chicago",United States,"Edward H. Levi Hall, 5801 South Ellis Avenue","Chicago",IL,United States
+60029311,"University of Southern California","Los Angeles",United States,"University Park Campus","Los Angeles",CA,United States
+60029445,"University of Minnesota Twin Cities","Minneapolis",United States,"3 Morrill Hall, 100 Church St. S.E.","Minneapolis",MN,United States
+60029681,"Pontificia Universidad Católica de Chile","Santiago",Chile,"Av. Libertador Bernardo O'Higgins 340","Santiago",,Chile
+60030162,"Columbia University in the City of New York","New York",United States,"213 Low Library, 535 W. 116th St.","New York",NY,United States
+60030208,"Universite d' Evry Val d'Essonne","Evry",France,"Boulevard François Mitterrand","Evry",,France
+60030591,"Federal Reserve Bank of Richmond","Richmond",United States,"","Richmond",VA,United States
+60030840,"Københavns Universitet","Copenhagen",Denmark,"Nørregade 10, Postboks 2177","Copenhagen",,Denmark
+60031004,"The University of Queensland","Brisbane",Australia,"","Brisbane",QLD,Australia
+60031101,"University of Cambridge","Cambridge",United Kingdom,"The Old Schools, Trinity Lane","Cambridge",Cambridgeshire,United Kingdom
+60031117,"Boston College","Chestnut Hill",United States,"140 Commonwealth Avenue","Chestnut Hill",MA,United States
+60031864,"Federal Reserve Bank of San Francisco","San Francisco",United States,"","San Francisco",CA,United States
+60032179,"University of Wisconsin-Madison","Madison",United States,"702 West Johnson Street, Suite 1101","Madison",WI,United States
+60032350,"Università degli Studi di Roma La Sapienza","Rome",Italy,"Piazzale Aldo Moro 5","Rome",RM,Italy
+60032704,"European Central Bank","Frankfurt am Main",Germany,"Sonnemannstrasse 20","Frankfurt am Main",Hessen,Germany
+60032907,"Institució Catalana de Recerca i Estudis Avançats","Barcelona",Spain,"Passeig Lluís Companys 23","Barcelona",Barcelona,Spain
+60032942,"Universitat Pompeu Fabra Barcelona","Barcelona",Spain,"Mercè building Plaça de la Mercè, 10-12","Barcelona",Barcelona,Spain
+60033138,"Universidad Internacional Menéndez Pelayo, Centro de Estudios Monetarios y Financieros","Madrid",Spain,"Calle Casado del Alisal, 5","Madrid",Madrid,Spain
+60033420,"York University","Toronto",Canada,"4700 Keele Street","Toronto",ON,Canada
+60068566,"École des hautes études commerciales de Paris","Jouy-en-Josas",France,"1, rue de la Libération","Jouy-en-Josas",Ile-de-France,France
+60071105,"University of Moratuwa","Moratuwa",Sri Lanka,"Katubedda","Moratuwa",,Sri Lanka
+60082963,"Banca d'Italia","Rome",Italy,"via Nazionale 91","Rome",,Italy
+60091322,"Federal Reserve Bank of Minneapolis","Minneapolis",United States,"90 Hennepin Avenue","Minneapolis",MN,United States
+60100905,"Hungarian National Bank","Budapest",Hungary,"Szabadsag ter 8/9","Budapest",,Hungary
+60102529,"Deutsche Bundesbank","Frankfurt am Main",Germany,"Postfach 100602","Frankfurt am Main",Hessen,Germany
+60104489,"Altinbas Universitesi","Istanbul",Turkey,"Büyükdere caddesi, No: 147 Esentepe","Istanbul",,Turkey
+60105207,"Barcelona Graduate School of Economics","Barcelona",Spain,"Ramon Trias Fargas, 25-27","Barcelona",,Spain
+60107048,"Aix Marseille School of Economics","Marseille",France,"2, rue de la Charité","Marseille",,France
+60107351,"Centre de Recerca en Economia Internacional","Barcelona",Spain,"Universitat Pompeu Fabra, Ramon Trias Fargas, 25-27","Barcelona",,Spain
+60108957,"Ecole d’Économie de Paris","Paris",France,"48 boulevard Jourdan","Paris",,France
+60109587,"Banco de España","Madrid",Spain,"C/ Alcalá, 48","Madrid",,Spain
+60109695,"UCP - Católica Lisbon School of Business &amp; Economics","Lisbon",Portugal,"Palma de Cima","Lisbon",Lisbon,Portugal
+60109908,"Banque de France","Paris",France,"31 rue Croix des Petits-Champs","Paris",,France
+60112314,"Bank of Japan, Tokyo","Chuo-ku",Japan,"2-1-1 Nihonbashi-Hongokucho","Chuo-ku",Tokyo,Japan
+60112406,"Studienzentrum Gerzensee - Stiftung der Schweizerischen Nationalbank","Gerzensee",Switzerland,"Dorfstrasse 2","Gerzensee",BE,Switzerland
+60112497,"Federal Reserve Bank of Boston","Boston",United States,"600 Atlantic Avenue","Boston",MA,United States
+60112748,"The University of Chicago Booth School of Business","Chicago",United States,"5807 S. Woodlawn Ave.","Chicago",IL,United States
+60112834,"The World Bank, USA","Washington, D.C.",United States,"1818 H Street, NW","Washington, D.C.",,United States
+60116107,"Adam Smith Business School","Glasgow",United Kingdom,"West Quadrangle, Gilbert Scott Building","Glasgow",Scotland,United Kingdom
+60116234,"Tepper School of Business","Pittsburgh",United States,"4765 Forbes Avenue","Pittsburgh",PA,United States
+60116379,"W. P. Carey School of Business","Tempe",United States,"300 E. Lemon Street, P.O. Box 873406","Tempe",AZ,United States
+60116490,"University of Exeter Business School","Exeter",United Kingdom,"Rennes Drive","Exeter",Devon,United Kingdom
+60116494,"UCI Paul Merage School of Business","Irvine",United States,"4293 Pereira Drive","Irvine",CA,United States
+60116524,"Questrom School of Business","Boston",United States,"Rafik B. Hariri Building, 595 Commonwealth Avenue","Boston",MA,United States
+60116849,"Poole College of Management","Raleigh",United States,"Nelson Hall, 2801 Founders Drive","Raleigh",NC,United States
+60120390,"Department of Economics","New Brunswick",United States,"Rutgers, The State University of New Jersey, 75 Hamilton Street, New Jersey Hall, (College Ave Campus)","New Brunswick",NJ,United States
+60122604,"Broad College of Business","East Lansing",United States,"North Business Building, 632 Bogue St Rm N520","East Lansing",MI,United States
+60123802,"Carlson School of Management","Minneapolis",United States,"University of Minnesota, 321 Nineteenth Avenue South, Suite 4-300","Minneapolis",MN,United States
+60138820,"Kellogg School of Management Northwestern University","Evanston",United States,"2211 Campus Drive","Evanston",IL,United States
+60170149,"Cardiff Business School","Cardiff",United Kingdom,"","Cardiff",Wales,United Kingdom
+60170320,"Economics Institute of the Czech Academy of Science","Prague",Czech Republic,"Narodni 3","Prague",,Czech Republic
+100818533,"CREI","",Spain,"","",,Spain
+101228841,"Bank of Japan","",Japan,"","",,Japan
+101389329,"CEPR","",United States,"FBK-IRVAPP and IZA","",,United States
+106051052,"Consultant","London",United Kingdom,"8 Harrington Road, Brighton, nullBN1 6RE","London",,United Kingdom
+106637423,"CEPR","Los Angeles",United States,"CESifo and CEP/LSE","Los Angeles",CA,United States
+110425848,"UCSD and NBER","",United States,"","",,United States
+116032264,"EHESS","",France,"105 Boulevard Raspail, LiParissboa","",,France
+122768795,"IGIER","",United States,"","",,United States
+122919662,"TNB USA Inc.","",United States,"","",,United States
+123068186,"EIEF and CEPR","Rome",Italy,"Viale Romania 32","Rome",,Italy
+123323868,"CEPR","Rome",Italy,"Via Sallustiana 62","Rome",,Italy

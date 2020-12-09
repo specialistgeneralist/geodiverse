@@ -1,0 +1,3 @@
+example
+
+>> run_GoogleAPIquery('../step3-Scopus_query_affiliation_IDs/test_scopus_unique_affiliations_wInfo.csv', 'test_scopus_unique_affiliations_wInfo_wLatLon.csv')

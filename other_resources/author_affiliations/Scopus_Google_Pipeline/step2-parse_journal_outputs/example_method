@@ -1,0 +1,13 @@
+>> make_TableFromJournalJSONs('../step1-Scopus_query_journal_outputs/outputs_json/', 'test_authors_unclean.csv')
+ --> found 4 files to parse --> parsing: Journal_of_Monetary_Economics_25 ...omics_25 ...
+ --> wrote test_authors_unclean.csv (261 rows)
+
+>> clean_ToFocusJournals('test_authors_unclean.csv', '../step1-Scopus_query_journal_outputs/journals_list_test.csv')
+ --> cleaned to journal list. (was 261 rows, now 261 rows)
+ --> new unique journal count: 2.
+ --> wrote test_authors_cleaned.csv (261 rows)
+
+>> find_or_drop_afidNulls('test_authors_cleaned.csv')
+ --> found 260 unique author--affiliation--paper rows ...
+ --> found 0 nulls. No further processing.
+ --> wrote _nulls.csv (0 rows) and _nonulls.csv (260 rows).

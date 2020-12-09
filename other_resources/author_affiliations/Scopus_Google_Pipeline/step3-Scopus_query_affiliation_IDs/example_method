@@ -1,0 +1,7 @@
+% -- get just the unique affiliations to query
+>> get_UniqueAffiliations('../step2-parse_journal_outputs/test_authors_cleaned_nonulls.csv', 'test_scopus_unique_affiliations.csv')
+
+[ on Institutional IP WHITE-LIST computer, % ./run.sh 'test_scopus_unique_affiliations.csv' ]
+
+>> join_afidInfo('outputs_json/id_*', 'test_scopus_unique_affiliations.csv', 'test_scopus_unique_affiliations_wInfo.csv')
+

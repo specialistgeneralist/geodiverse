@@ -5,7 +5,7 @@
  --> wrote author_power_1p0deg.csv (1348 rows).
 
 % -- refined variant
->> calc_authorPower('../scopus/step5-join_affiliation_geos_to_journal_outputs/scopus_authors_papers_affiliations_geo_refined.csv', 'author_power_1p0deg_refined.csv', 0)
+>> calc_authorPower('scopus_authors_papers_affiliations_geo_refined.csv', 'author_power_1p0deg_refined.csv', 0)
  --> wrote author_power_1p0deg_refined.csv (1081 rows).
 
 % -- check impact of geo refinement on geo power

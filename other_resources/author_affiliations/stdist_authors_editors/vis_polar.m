@@ -18,6 +18,7 @@ h = polarplot(db.az_rad, db.arc_len, '.');
 	set(h, 'MarkerSize', 5)
 
 	% .. label for user id
+	% (comment out if not desired)
 	text(db.az_rad, db.arc_len, db.abbr)
 
 % .. label
@@ -26,6 +27,4 @@ angles = 0:45:360;
 pax.ThetaTick = angles;
 labels = {'E','NE','N','NW','W','SW','S','SE'};
 pax.ThetaTickLabel = labels;
-
-% .. disp for user ID
 

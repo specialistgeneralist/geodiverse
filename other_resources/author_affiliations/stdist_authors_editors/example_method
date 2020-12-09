@@ -30,7 +30,7 @@ F-statistic vs. constant model: 20.2, p-value = 4.71e-05
  --> Spearman (rank) rho (p-val): 0.589 (0.0000).
 
 % // vis polar plot of movements, ED -> AU
->> vis_polar('../share/final/geo_authors_editors_abbr.csv')
+>> vis_polar('geo_authors_editors_abbr.csv')
 
 
 

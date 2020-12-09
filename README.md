@@ -74,7 +74,10 @@ In `other_resources` is provided additional tools and examples for working with 
 * In `journal_dists/` is provided code and in/out tab-delimited files to compute standard geographic distance measures, by journal. See `compute_stdist.m` for details.
 * In `kepler_visualisation/` is provided an `.html` file allowing exploration of an institutional visualisation of the editorial power dataset.
 * In `R_plots/` is provided *R* code and data to produce bar charts, scatter plots and density plots of power and geographic diversity measures.
-* In `author_affiliations/` is provided methods for extracting outputs by journal from the Scopus Content Search API, enriching affiliation information with the Scopus Affiliation API, geo-locating enriched locations with Google's Geocode API, and then combining all outputs to obtain a geo-located author-output-affiliation database.
+* In `author_affiliations/` is provided methods for:
+ * Extracting outputs by journal from the Scopus Content Search API, enriching affiliation information with the Scopus Affiliation API, geo-locating enriched locations with Google's Geocode API, and then combining all outputs to obtain a geo-located author-output-affiliation database.
+ * Computing stdist and centroids for authorial outputs of the top journals in Econ.
+ * Computing authorial power at a gridded set of points on the globe for comparison to maps of editorial power. 
 
 # Disclaimer
 _While the authors have made reasonable efforts to ensure the accuracy of the data provided here, the authors assume no responsibility or liability for any errors or omissions in the data, nor for the results obtained from the use of the data. The data is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this data._

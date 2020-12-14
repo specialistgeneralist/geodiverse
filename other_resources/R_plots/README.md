@@ -1,5 +1,5 @@
 # GeoDiverse / R Plots
-_A variety of figures on geographic diversity in Economic journal publishing_
+_A variety of figures on geographic diversity in economic publishing_
 
 ## Summary
 Run `figures.r` with *R*, ensuring `datafiles.RData` is in the same directory.
@@ -9,10 +9,13 @@ Run `figures.r` with *R*, ensuring `datafiles.RData` is in the same directory.
 Plots included:
 * power bar-plots
   * institutional power by journal tiers
-  * by country
   * country power by journal tiers
   * country power (less USA) by journal tiers
-* geo-diverse scatterplot
-  * journal age and standard distances (degrees) by journal 
+* geo-diverse scatterplots
+  * editors standard distance vs authors standard distance (by journal tiers and impact factor)
+  * editors standard distance vs journal age a(by journal tiers and impact factor)
 * geo-diverse densities
   * densities of standard distances (degrees) by journal field
+  
+Plots not included:
+* densities of editors and authors across longitudes

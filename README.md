@@ -6,6 +6,7 @@ _Providing the Economics community with information on the geographic diversity 
 By [Simon D. Angus](http://research.monash.edu/en/persons/simon-angus), [Kadir Atalay](http://sydney.edu.au/arts/about/our-people/academic-staff/kadir-atalay.html), [Jonathan Newton](http://jonathannewton.net), and [David Ubilava](http://davidubilava.com)
 
 See
+* **Main Paper**: [Simon D. Angus, Kadir Atalay, Jonathan Newton, David Ubilava, (2021), "Geographic diversity in economic publishing", _Journal of Economic Behavior & Organization_, 190:255-262.](https://www.sciencedirect.com/science/article/pii/S016726812100336X)
 * **Working Paper**:  [Angus, SD, Atalay, K, Newton, J, and Ubilava, D; _Geographic Diversity in Economic Publishing_ (September 23, 2020). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697906)
 * **Twitter**: [@geo_diverse](https://twitter.com/geo_diverse)
 
